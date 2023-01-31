@@ -18,7 +18,7 @@ const Part = ({part}) =>
     {part.name} {part.exercises}
   </div>
 
-const Content = ({ parts }) => {
+const Content = ({parts}) => {
 
   return (
     <div>
